@@ -9,7 +9,7 @@ Eric also developed cantact-app, canard, and most of the other awesome tools tha
 
 <ul>
 	<li>stm32f072c8t6 frequency up to 48Mhz</li>
-	<li>ADM3053BRWZ, highly integrated fully isolated chip with 2.5KV rms signal and power isolation function</li>
+	<li>ADM3053BRWZ, highly integrated fully isolated chip with 2.5KV rms signal and power isolation function it provides isolation between Input CANL and CANH signal to RX,TX signal, So this IC uses 2 seprate GND.</li>
 	<li>USB-C</li>
 	<li>2 mounting holes for m3 screws</li>
   <li>250ma and integrated 1.2A fuse</li>
