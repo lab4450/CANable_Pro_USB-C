@@ -2,7 +2,7 @@
 
 <p>USB to CAN adapter</p>
 
-<p>The CANable Pro from Lab4450 is a variant of CANable, which in turn is a hardware clone of Eric Evenchick&#39;s CANtact project and latetely a clone from MakerBase CANable Pro version v1.0.<br />
+<p>The CANable Pro from Lab4450 is a variant of CANable, that is heavily based on MKS Canable Pro that is a clone from Canable Pro from Protofusion that is also a hardware clone of Eric Evenchick&#39;s CANtact project.<br />
 Eric also developed cantact-app, canard, and most of the other awesome tools that work with the CANable and CANtact devices.</p>
 
 <p>Features:</p>
@@ -13,10 +13,10 @@ Eric also developed cantact-app, canard, and most of the other awesome tools tha
 	<li>USB-C</li>
 	<li>2 mounting holes for m3 screws</li>
   <li>250ma and integrated 1.2A fuse</li>
+	<li>flashed with candlelight</li>
 </ul>
 
 <p>Sources and credits:</p>
-
 <ul>
 	<li>https://github.com/makerbase-mks/CANable-MKS</li>
 	<li>https://openlightlabs.com/collections/frontpage/products/canable-pro-isolated-usb-to-can-adapter</li>
