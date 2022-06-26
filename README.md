@@ -1,4 +1,4 @@
-# CANable_Pro_USB-C
+# CANable Pro USB-C
 
 <p>USB to CAN adapter</p>
 
